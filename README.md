@@ -1,5 +1,5 @@
 # Git-configure-password-free-login-GitHub
-# **Git配置免密登录Github**
+# Git配置免密登录Github
 
 ```
 参考地址  https://blog.51cto.com/u_15077537/4513583
